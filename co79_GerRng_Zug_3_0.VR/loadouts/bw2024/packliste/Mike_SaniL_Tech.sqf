@@ -452,30 +452,7 @@
     // Medical
     // ------------------------------------------------------------------
     // ------------------------------------------------------------------
-    "ACE_adenosine",
-    "ACE_bodyBag",
-    "ACE_epinephrine",
-    "ACE_salineIV",
-    "ACE_surgicalKit",
-    "kat_IV_16",
-    "kat_Carbonate",
-    "kat_BVM",
-    "kat_Caffeine",
-    "kat_EACA",
-    "kat_IO_FAST",
-    "kat_fentanyl",
-    "kat_ketamine",
-    "kat_larynx",
-    "kat_naloxone",
-    "kat_nitroglycerin",
-    "kat_Penthrox",
-    "kat_Pulseoximeter",
-    "kat_TXA",
-    "kat_stethoscope",
-    "kat_ncdKit",
     
-    "GerRng_kat_changes_glucometerSet",
-    "GerRng_kat_changes_GSCI",
     // ------------------------------------------------------------------
     // ------------------------------------------------------------------
     // Misc 1
@@ -494,22 +471,6 @@
     // Misc 2
     // ------------------------------------------------------------------
     // ------------------------------------------------------------------
-    "ace_marker_flags_black",
-    "ace_marker_flags_blue",
-    "ace_marker_flags_orange",
-    "ace_marker_flags_purple",
-    "ace_marker_flags_red",
-    "ace_marker_flags_white",
-    "ace_marker_flags_yellow",
-    "ace_marker_flags_green",
-    "ace_flags_black",
-    "ace_flags_blue",
-    "ace_flags_green",
-    "ace_flags_orange",
-    "ace_flags_purple",
-    "ace_flags_red",
-    "ace_flags_white",
-    "ace_flags_yellow",
     "ACE_rope12",
     "ACE_rope15",
     "ACE_rope18",
